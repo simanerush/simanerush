@@ -1,17 +1,13 @@
-### Hi there 👋
+### Hi! I'm Sima 🍓 
+I'm an iOS Developer, sophomore Mathematics-Computer Science major at Reed College and currently based in Portland, Oregon. 
 
-![Sima Nerush's GitHub stats](https://github-readme-stats.vercel.app/api?username=simanerush&show_icons=true&theme=radical)
-<!--
-**simanerush/simanerush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Instagram](https://www.instagram.com/murbuni/) ☺︎ [Linkedin](https://www.linkedin.com/in/simanerush/) ☺︎ [Mail](mailto:2002ssn@gmail.com)
 
-Here are some ideas to get you started:
+![Sima Nerush's GitHub stats](https://github-readme-stats.vercel.app/api?username=simanerush&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some facts about me: <br />
+• 😄 Pronouns: she/her <br />
+• 🌳 I’m currently learning Swift. <br />
+• ☁️ Ask me about anything related to iOS development! <br />
+• 📫 How to reach me: use the blue links on top!
+
