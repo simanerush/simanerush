@@ -7,7 +7,7 @@ I'm an iOS Developer, sophomore Computer Science-Mathematics major at Reed Colle
 
 Some facts about me: <br />
 - 👩🏻‍💻 Pronouns: she/her <br />
-- 🌳 I’m currently learning SwiftUI. <br />
+- 🌳 I’m currently learning Core ML. <br />
 - ☁️ Ask me about anything related to iOS development! <br />
 - 📫 How to reach me: use the blue links on top!
 
