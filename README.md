@@ -7,7 +7,7 @@ I'm an iOS Developer, sophomore Computer Science major at Reed College and curre
 
 Some facts about me: <br />
 - 👩🏻‍💻 Pronouns: she/her <br />
-- 🌳 I’m currently learning SpriteKit. <br />
+- 🌳 I’m currently watching WWDC22. <br />
 - ☁️ Ask me about anything related to iOS development! <br />
 - 📫 How to reach me: use the blue links on top!
 
