@@ -3,11 +3,9 @@ I'm an iOS Developer, sophomore Computer Science major at Reed College and curre
 
 [Instagram](https://www.instagram.com/murbuni/) ☺︎ [LinkedIn](https://www.linkedin.com/in/simanerush/) ☺︎ [Mail](mailto:2002ssn@gmail.com)
 
-![Sima Nerush's GitHub stats](https://github-readme-stats.vercel.app/api?username=simanerush&show_icons=true&theme=dracula)
-
 Some facts about me: <br />
 - 👩🏻‍💻 Pronouns: she/her <br />
-- 🌳 I’m currently watching WWDC22. <br />
+- 🌳 I’m currently learning about Vision. <br />
 - ☁️ Ask me about anything related to iOS development! <br />
 - 📫 How to reach me: use the blue links on top!
 
