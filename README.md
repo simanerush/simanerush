@@ -1,5 +1,5 @@
 ### Hi! I'm Sima 🍓 
-I'm an iOS Developer, rising junior Computer Science major at Reed College and currently based in Portland, Oregon. 
+Currently, I'm working as iOS Engineer Intern at Ancestry. I'm also a rising junior, Computer Science major, at Reed College (Portland, Oregon). 
 
 [Instagram](https://www.instagram.com/murbuni/) ☺︎ [LinkedIn](https://www.linkedin.com/in/simanerush/) ☺︎ [Mail](mailto:2002ssn@gmail.com)
 
