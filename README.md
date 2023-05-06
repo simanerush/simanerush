@@ -14,4 +14,4 @@
 
 🧩I've also fully built multiple iOS apps published to the App Store.
 
-💌Contact me at 2002ssn@gmail.com
+💌Contact me at simanerush@gmail.com
