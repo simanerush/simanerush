@@ -1,5 +1,5 @@
 # Sima Nerush
-> iOS Engineer, Swift Compiler Contributor.
+> Passionate about Swift and its Evolution.
 
 **iOS Engineer Intern @ [Apple](https://www.apple.com)** / Ex-[Ancestry](https://www.ancestry.com) / CS @ [Reed College](https://www.reed.edu)
 
