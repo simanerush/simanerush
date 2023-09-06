@@ -7,6 +7,6 @@
 
 * 🫧 Contributing to [apple/swift](https://github.com/apple/swift)
 
-* 🐢 Check out my app, [Chameleo](https://apps.apple.com/us/app/chameleo-daily-inspiration/id6443801762)!
+* 💭 Check out my app, [Chameleo](https://apps.apple.com/us/app/chameleo-daily-inspiration/id6443801762)!
 
 { Swift, SwiftUI, UIKit, Xcode }
