@@ -1,7 +1,10 @@
 # Sima Nerush
 > Passionate about Swift and its Evolution.
 
-**iOS Engineer Intern @ [Apple](https://www.apple.com)** / Ex-[Ancestry](https://www.ancestry.com) / CS @ [Reed College](https://www.reed.edu)
+**CS Student @ [Reed College](https://www.reed.edu)** 
+
+Internship experience:
+iOS Engineer Intern @ [Apple](https://www.apple.com) / iOS Engineer Intern @ [Ancestry](https://www.ancestry.com)
 
 * 🫧 Contributing to [apple/swift](https://github.com/apple/swift)
 
