@@ -1,6 +1,6 @@
 # Sima Nerush
 
-**Incoming SwiftUI Frameworks Engineer @ [Apple](https://www.apple.com) | CS Student @ [Reed College](https://www.reed.edu) '24** 
+**Incoming SwiftUI @ [Apple](https://www.apple.com) | CS Student @ [Reed College](https://www.reed.edu) '24** 
 
 * 👩🏻‍💻 Experienced iOS Engineer
 
